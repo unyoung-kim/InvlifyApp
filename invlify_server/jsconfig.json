@@ -1,0 +1,9 @@
+{
+  "typeAcquisition": {
+    "include": ["jest"]
+  },
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "commonjs"
+  }
+}
